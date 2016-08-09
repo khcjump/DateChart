@@ -1,6 +1,1 @@
-# DateChart
-
-Excel Grant Chart Tools
-甘特圖工具
-
-- 程式使用巨集功能，請記得開啟
+# DateChartExcel Grant Chart Tools甘特圖工具- 程式使用巨集功能，請記得開啟注意事項- 因有使用巨集功能，需要啟用巨集權限才可以使用- 內含有個人憑証，需要加入信任以提供運作。不建議不檢查憑証
